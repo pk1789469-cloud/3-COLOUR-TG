@@ -1,0 +1,6 @@
+{
+  "name": "RGB Royal - Color Prediction Game with UPI & VIP Admin",
+  "description": "Vibrant RGB (Red, Green, Blue) color trading and prediction game with high-glow lighting, UPI payments with instant QR generator, deposit approval workflow, and a VIP Admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
